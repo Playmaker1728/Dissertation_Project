@@ -1,0 +1,47 @@
+.DS_Store
+__pycache__/
+.idea/
+.tmp/
+.vscode/
+bdd/
+runs/
+inference/
+data/
+*.pth
+!End-to-end.pth
+*.pt
+*.tar
+*.gz
+*.tar.gz
+
+
+# 示例：一个常见的 .gitignore 文件
+# # macOS
+# .DS_Store
+
+# # Node.js
+# node_modules/
+
+# # Visual Studio Code
+# .vscode/
+
+# # Logs
+# *.log
+
+# # Runtime files
+# *.pid
+# *.seed
+
+# # Dependency directories
+# node_modules/
+
+# # Python
+# __pycache__/
+# *.pyc
+# venv/
+
+# # IntelliJ IDEA
+# .idea/
+
+# # Java
+# *.class
